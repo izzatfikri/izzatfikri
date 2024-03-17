@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izzat Fikri</h1>
-<h3 align="center">A passionate person in coding and solving problem. I love to gain new knowledge by learning new skills. My dream is to become a software engineer in the future..</h3>
+<h3 align="center">A passionate person in coding and solving problem. I love to gain new knowledge by learning new skills. My dream is to become a backend developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzatfikri&label=Profile%20views&color=0e75b6&style=flat" alt="izzatfikri" /> </p>
 
