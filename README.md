@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently studying at **Universiti Tenaga Nasional (UNITEN)**
 
-- 🌱 I’m currently learning **Web Development and C programming.**
-
-- 📝 I regularly write code on [Visual Studio Code](Visual Studio Code)
-
 - 📫 How to reach me **izzatfikri.fikri@gmail.com**
 
 - ⚡ Fun fact **I am a hardworking person.**
